@@ -3,8 +3,9 @@
  * <p>
  * O ContaTerminal permite que o cliente consulte os dados de sua conta no banco.
  * </p>
- * <p> O cliente deverá inserir os dados bancários: número da agência, número da conta e o nome do cliente seguidos da tecla Enter.
- * <p>
+ * <p> 
+ * O cliente deverá inserir os dados bancários: número da agência, número da conta e o nome do cliente seguidos da tecla Enter.
+ * </p>
  * 
  * @author José Gildo da Silca
  * @version 1.0
