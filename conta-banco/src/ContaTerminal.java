@@ -7,7 +7,7 @@
  * O cliente deverá inserir os dados bancários: número da agência, número da conta e o nome do cliente seguidos da tecla Enter.
  * </p>
  * 
- * @author José Gildo da Silca
+ * @author José Gildo da Silva
  * @version 1.0
  * @since 21/03/2025
  */
